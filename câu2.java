@@ -85,51 +85,6 @@ public class ContinuousSignal implements Signal {
     }
 }
 
-public class DiscreteSignal implements Signal {
-    private double amplitude;
-    private double frequency;
-    private double period;
-    private double wavelength;
-
-    // Constructor cho DiscreteSignal
-    public DiscreteSignal(double amplitude, double frequency, double period, double wavelength) {
-        this.amplitude = amplitude;
-        this.frequency = frequency;
-        this.period = period;
-        this.wavelength = wavelength;
-    }
-
-    @Override
-    public double getAmplitude() {
-        return amplitude;
-    }
-
-    @Override
-    public double getFrequency() {
-        return frequency;
-    }
-
-    @Override
-    public double getPeriod() {
-        return period;
-    }
-
-    @Override
-    public double getWavelength() {
-        return wavelength;
-    }
-
-    // Phương thức để thực hiện định nghĩa tín hiệu rời rạc
-    public double discreteSignalDefinition(int n, int k) {
-        return amplitude * deltaFunction(n - k);
-    }
-
-    // Định nghĩa dãy xung đơn vị delta
-    private double deltaFunction(int n) {
-        return (n == 0) ? 1 : 0;
-    }
-}
-
 public class Radar {
     // Phương thức để phân tích tín hiệu rời rạc
     public double analyzeDiscreteSignal(int n) {

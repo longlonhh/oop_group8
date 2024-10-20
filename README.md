@@ -4,4 +4,3 @@
 
 2.Nguyễn Khánh Duy
 
-3.Nguyễn Lệ Thu

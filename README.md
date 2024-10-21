@@ -28,5 +28,15 @@ Giúp nhân viên có thể quản lý quán một cách dễ dàng chỉ bằng
 
 
 
+###Cài đặt CSDL mySQL 
+
+![image](https://github.com/user-attachments/assets/cd8cd746-e639-4929-ac5f-cfe39041c44f)
+
+
+![image](https://github.com/user-attachments/assets/53fd9506-c77e-41e9-b32f-6d6582933b23)
+
+
+
+
 
 

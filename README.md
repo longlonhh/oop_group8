@@ -14,7 +14,8 @@ Giúp nhân viên có thể quản lý quán một cách dễ dàng chỉ bằng
 ### UML Dự Á
 ### 1.1 UML Component Diagram
 
-![image](https://github.com/user-attachments/assets/3005e9d8-153a-49f4-bb65-4f357a3e250e)
+![image](https://github.com/user-attachments/assets/66082412-6a79-4fc5-a54b-c6f880ad0a07)
+
 
 ### 1.2 UML Sequence Diagram 
 ### 1.2.1

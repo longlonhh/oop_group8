@@ -17,10 +17,22 @@ Giúp nhân viên có thể quản lý quán một cách dễ dàng chỉ bằng
 ![image](https://github.com/user-attachments/assets/66082412-6a79-4fc5-a54b-c6f880ad0a07)
 
 
-### 1.2 UML Sequence Diagram 
+### 1.2 UML
 ### 1.2.1
 
 ![image](https://github.com/user-attachments/assets/9d9bc768-d1cb-41b9-a1a4-b073df632412)
+
+### 1.2.2
+
+![image](https://github.com/user-attachments/assets/47124a8e-58f5-4326-891b-e6eabc2e9078)
+
+
+### 1.2.3
+
+
+![image](https://github.com/user-attachments/assets/ba721af1-298e-4a30-964d-9aa23a45f1ea)
+
+
 
 ### Giao diện đầu tiên của dự án.
 
@@ -28,7 +40,7 @@ Giúp nhân viên có thể quản lý quán một cách dễ dàng chỉ bằng
 
 
 
-###Cài đặt CSDL mySQL 
+### Cài đặt CSDL mySQL 
 
 ![image](https://github.com/user-attachments/assets/cd8cd746-e639-4929-ac5f-cfe39041c44f)
 
